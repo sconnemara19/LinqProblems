@@ -1,0 +1,11 @@
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.exe
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.deps.json
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.runtimeconfig.json
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.runtimeconfig.dev.json
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.dll
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\bin\Debug\netcoreapp3.0\LinqProblems.pdb
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\obj\Debug\netcoreapp3.0\LinqProblems.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\obj\Debug\netcoreapp3.0\LinqProblems.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\obj\Debug\netcoreapp3.0\LinqProblems.AssemblyInfo.cs
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\obj\Debug\netcoreapp3.0\LinqProblems.dll
+C:\Users\simon\Desktop\Visual Studio\LinqProblems\LinqProblems\obj\Debug\netcoreapp3.0\LinqProblems.pdb
